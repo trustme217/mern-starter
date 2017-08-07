@@ -1,0 +1,9 @@
+:global {
+  .no-margin-bottom {
+    margin-bottom: 0;
+  }
+
+  .btn + .btn {
+    margin-left: 10px;
+  }
+}
